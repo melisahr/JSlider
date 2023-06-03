@@ -8,6 +8,7 @@ How?
 Implementing a ChangeListener and adding methods.
 
 Methods that were applied:
+
 -setPreferredSize(newDimension())-size of slider.
 
 -setPaintTicks(true)-makes ticks to the slider.
