@@ -9,10 +9,15 @@ Implementing a ChangeListener and adding methods.
 
 Methods that were applied:
 -setPreferredSize(newDimension())-size of slider.
+
 -setPaintTicks(true)-makes ticks to the slider.
+
 -setMinorTickSpacing()-adds minor spacing between each tick.
+
 -setMajorTickSpacing()-adds major spacing between each tick.
+
 -setPaintLabels(true)-apply the label to the slider.
+
 -setOrientation(SwingConstants.VERTICAL)-sets the slider vertically.
 
 In stateChanged, set the text label to the median celsius as default.
