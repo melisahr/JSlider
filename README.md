@@ -1,5 +1,6 @@
 # JSlider
 Language: Java
+
 I made a simple thermometer using a JSlider following a YouTube video.
 JSlider is a component that can select a value by moving a knob. 
 I created an adjustable celsius thermometer with a minimum, median, and maximum value.
